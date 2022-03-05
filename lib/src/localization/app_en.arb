@@ -1,0 +1,6 @@
+{
+  "appTitle": "my_diary_book",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
